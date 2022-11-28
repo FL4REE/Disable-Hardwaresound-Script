@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Creates a new variable with a value of "Hello World"
+#Variables"
 Anfang="Hardware-Piepen wird ausgeschaltet..."
 Ende="Erledigt."
 
